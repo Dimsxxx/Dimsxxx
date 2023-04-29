@@ -6,10 +6,19 @@
 ### <div align="center">I am Dimas Eka, a Fullstack Developer and Graphic Design</div>  
   
 
-- *I am very happy to try new things like one of the technology 👨‍💻*  
+
   
 
-- *I also like to do graphic design and web design*  
+-  👨‍💻 I am very happy to try new things like one of the technology   
+  
+
+- 💻 I studied programming since the beginning of SMK  
+  
+
+- ❓ I also like to do graphic design and web design  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
